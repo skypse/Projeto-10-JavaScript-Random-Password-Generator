@@ -1,5 +1,7 @@
 # 🔒 Gerador de Senha Aleatória 🔑
 
+https://github.com/skypse/Projeto-10-JavaScript-Random-Password-Generator/assets/97822775/5051fc44-0e0c-489f-aedc-3cee46bd44cb
+
 Este é um gerador de senha aleatória simples desenvolvido com HTML, CSS e JavaScript. Ele permite que os usuários gerem senhas seguras e copiem facilmente para a área de transferência.
 
 ## ⚙️ Funcionalidades Principais
