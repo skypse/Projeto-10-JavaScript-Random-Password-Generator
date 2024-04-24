@@ -27,11 +27,4 @@ function copyPassword() {
 
   // Copia o texto selecionado para a área de transferência
   navigator.clipboard.writeText(passwordBox.value)
-    .then(() => {
-      console.log("Senha copiada com sucesso!");
-    })
-    .catch(err => {
-      // Se ocorrer um erro, exibe uma mensagem de erro
-      console.error("Erro ao copiar senha:", err);
-    });
 }
